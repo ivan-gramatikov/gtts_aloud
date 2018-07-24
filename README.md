@@ -1,5 +1,9 @@
 # gtts_aloud
 
+This is a standalone little text-to-speech program. It will read text out loud, provided you have vlc installed and will save it as an mp3. 
+All you have to do is give it a text file in English. 
+It was made just for fun. 
+
 -------------------------------------------
 Requirements:
 
